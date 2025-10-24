@@ -1,0 +1,10 @@
+streamlit
+pandas
+PyMuPDF
+matplotlib
+wordcloud
+plotly
+fpdf
+xlsxwriter
+scikit-learn
+python-docx
